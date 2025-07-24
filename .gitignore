@@ -1,0 +1,34 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment / API key files
+.env
+*.env
+phish.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Editor and IDE settings
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Python virtual environments
+env/
+.venv/
+venv/
+
+# Streamlit cache and settings
+.streamlit/
+
+# Log and temp files
+*.log
+*.tmp
+
+# Windows thumbnails and system files
+Thumbs.db
